@@ -1,0 +1,4 @@
+.vscode/
+sftp.json
+venv/
+__pycache__/
