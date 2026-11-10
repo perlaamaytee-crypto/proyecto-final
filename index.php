@@ -26,6 +26,7 @@ $chat_url = getenv('CHAT_URL');
     <a class="btn" href="video.php">🎬 Mi video</a>
     <a class="btn" href="crud/index.php">🗂️ CRUD de productos</a>
     <a class="btn" href="login/index.php">🔐 Login</a>
+    <a class="btn" href="seguir/index.php">📈 Seguir (métricas)</a>
     <?php if ($chat_url): ?>
       <a class="btn" href="<?php echo htmlspecialchars($chat_url); ?>">💬 Chat</a>
     <?php else: ?>
