@@ -1,0 +1,9 @@
+/* login/estilos.css
+   Solo lo extra del login. El diseño base viene de ../estilos.css */
+button.btn { width: 100%; margin-right: 0; }
+.error { padding: 10px; border-radius: 8px; background: #fde8ee; color: #9b2c4a; }
+.exito { padding: 10px; border-radius: 8px; background: #e6f6ec; color: #25603a; }
+main a { color: #7e5bb8; }
+main a.btn { color: #fff; }
+.datos { list-style: none; padding: 0; margin: 0 0 10px; }
+.datos li { padding: 8px 0; border-bottom: 1px solid #eadff7; }
